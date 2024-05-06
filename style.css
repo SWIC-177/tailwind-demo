@@ -10,6 +10,6 @@
 
 @layer utilities {
   .is-error {
-    @apply scale-y-100 transition-transform;
+    @apply scale-y-100 transition-transform delay-75;
   }
 }
